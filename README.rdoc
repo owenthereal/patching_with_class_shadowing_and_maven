@@ -5,7 +5,7 @@ An example to use Maven to help with class shadowing.
 == Getting the source
   $ git clone git@github.com:jingweno/patching_with_class_shadowing_and_maven.git
 
-== Running the examples
+== Running the example
   $ mvn clean install
 
 == Copyright
